@@ -1,0 +1,30 @@
+nextjs
+c++
+html
+react
+python3
+
+
+c++:
+base file with commands.txt
+s1: create a c++ file
+s2: append hello world to maincpp
+s3: make commands.txt
+s4: append data to commands.txt
+
+
+
+Data_base = {
+    UID:{
+        'desp' : "",
+        1 : ""
+    }
+}
+
+
+makeFile
+makeFolder
+writeToFile
+gitRepo
+appendToFile
+deleteFile

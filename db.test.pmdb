@@ -1,0 +1,13 @@
+0 : {
+
+},
+762132893530 : {
+    'desp' : "",
+    1 : "makeFile('main.cpp')",
+    2 : "writeToFile('main.cpp', 'cout<<\"Hello World\"')",
+},
+7621328530 : {
+    'desp' : "",
+    1 : "makeFile('man.cpp')",
+    2 : "writeToFile('main.cpp', 'cout<<\"Hello World\"')",
+}
